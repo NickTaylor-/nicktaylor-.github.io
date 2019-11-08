@@ -4,6 +4,9 @@ title: Projects
 permalink: /projects/
 ---
 
+### [Rust Identity-Aware Proxy (IAP)](https://github.com/NickTaylor-/rust-iap)
+An Identity-Aware Proxy with an authorization engine in Rust, and leveraging Nginx as a proxy.
+
 ### [Sorting Algorithm Visualizer](https://www.nicktaylor.ca/sorting-algorithms)
 A demo project to visualize the steps that different sorting algorithms take.
 
